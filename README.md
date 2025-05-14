@@ -103,14 +103,5 @@ initBackgroundGraph({
 });
 ```
 
----
 
-## License
 
-MIT License. Feel free to use, modify, or distribute.
-
----
-
-## Author
-
-Your Name • yourwebsite.com • @yourhandle
