@@ -103,6 +103,6 @@ initBackgroundGraph({
   pointColor: '#444'
 });
 ```
-
+**Next Update** : I would be loading the graph from external site rather than creating on which takes time. (Either scaling constant num points or subsetting a big graph)<br>
 
 
