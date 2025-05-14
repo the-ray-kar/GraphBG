@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Scroll-Independent Background</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      color: white;
+      background: #000;
+    }
+    main {
+      padding: 2rem;
+      position: relative;
+      z-index: 1;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Animated Background</h1>
+    <p>Move your mouse around to highlight edges and interact with the graph.</p>
+    <div style="height: 1500px;"></div>
+  </main>
+
+  <script src="https://raw.githubusercontent.com/the-ray-kar/GraphBG/main/bgGraph.js"></script>
+  <script>
+    initBackgroundGraph(); // initialize the background graph
+  </script>
+</body>
+</html>
