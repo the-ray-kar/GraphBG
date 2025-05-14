@@ -4,7 +4,7 @@ Check the demo here : [View GraphBG Visualization](https://htmlpreview.github.io
 This project renders an animated and interactive canvas-based background graph that remains fixed behind scrollable page content. Nodes are randomly placed and connected to nearby neighbors, and cursor movement highlights nearby edges and draws connecting lines in real time.
 
 ---
-
+I used quad trees for optimizing on finding nearest neighbours.<br>
 ## Features
 
 - Scroll-independent, full-screen canvas background
