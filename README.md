@@ -1,5 +1,6 @@
 # Scroll-Independent Interactive Canvas Background
 Check the demo here : [View GraphBG Visualization](https://htmlpreview.github.io/?https://github.com/the-ray-kar/GraphBG/blob/main/demo_index_checkout.html) <br>
+![Spider Cursor Demo](https://raw.githubusercontent.com/the-ray-kar/GraphBG/66a5e6981fea62fb74dd4f789e8f4b49d0573f91/SpiderCursor.gif)
 This project renders an animated and interactive canvas-based background graph that remains fixed behind scrollable page content. Nodes are randomly placed and connected to nearby neighbors, and cursor movement highlights nearby edges and draws connecting lines in real time.
 
 ---
